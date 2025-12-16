@@ -18,10 +18,14 @@ a{
     text-decoration: none;
     color: black;
     padding: 10px;
-    
 }
-ul {
-    list-style: inside;
+#container{
+    display: flex;
+    justify-content: center;
+}
+#imagem{
+    width: 1000px;
+    text-align: center
 }
 footer{
 
@@ -30,4 +34,5 @@ footer{
 }
 footer > p{
     text-align: center;
+    color: white ;
 }
