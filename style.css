@@ -10,19 +10,22 @@ body{
     display: flex;
     flex-direction: column;
 }
+header{
+    background-color: brown;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: end; 
+    
+}
 main{
     flex: 1;
     display: flex;
     flex-direction: column;
-    background-color: rgb(245, 245, 245);
 }
 nav{
-    display: flex;
-    justify-content: center;
-    align-items: end;
-    width: 100vw;
-    height: 80px;
-    background-color: rgb(224, 8, 8);
+    
+    background-color: beige;
 }
 nav > ul{
     display: flex;
