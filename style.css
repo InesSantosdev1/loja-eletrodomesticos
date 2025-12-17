@@ -35,16 +35,16 @@ a{
     color: black;
     padding: 25px;
 }
-#container{
+#payment-section{
     display: flex;
     margin-top: auto;
     flex-direction: column;
 }
-#container > h2{
+#payment-section > h2{
     margin-left: 10px;
     margin-bottom: 10px;
 }
-#container > ul{
+#payment-section > ul{
     margin-left: 20px;
     padding-left: 20px;
     
