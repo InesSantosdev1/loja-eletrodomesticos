@@ -6,15 +6,7 @@ main > h1, p{
     margin-bottom: 8px;
     color: #555;
 }
-nav > ul{
-    display: flex;
-    list-style: none;
-}
-a{
-    text-decoration: none;
-    color: #e7e7e7be;
-    padding: 25px;
-}
+
 #image-section{
     background-color: #f0f0f05b;
     padding-top: 20px;

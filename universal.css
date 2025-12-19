@@ -19,6 +19,15 @@ header{
     justify-content: center;
     align-items: end; 
 }
+#lista-menu{
+    display: flex;
+    list-style: none;
+}
+.item-menu{
+    text-decoration: none;
+    color: #e7e7e7be;
+    padding: 25px;
+}
 footer{
 
     height: 40px;
