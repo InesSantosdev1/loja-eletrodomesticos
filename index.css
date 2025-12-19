@@ -3,22 +3,35 @@ main > h1{
 }
 main > h1{
     text-align: center;
-    margin-bottom: 8px;
+    margin: 40px 0px;
     color: #555;
+    text-shadow: 2px 2px 5px #00000044;
+ 
 }
 
 #image-section{
-    background-color: #f0f0f05b;
     padding-top: 20px;
-    padding-bottom: 70px;
+    padding-bottom: 30px;
     display: flex;
     justify-content: space-around;
     
 }
-.prod-sale h2{
-    color:aqua;
-    font-size: 12px;
+.prod-sale{
+    box-shadow: 3px 3px 10px #cfcfcf48;
+    border-radius: 5px;
+    padding: 40px;
 }
+.prod-sale h2{
+    margin-top: 20px;
+    margin-bottom: 8px;
+    color:#252525;
+    font-size: 17px;
+}
+.prod-sale img{
+    margin-left: 30px;
+}
+
+
 
 #payment-section{
     display: flex;
