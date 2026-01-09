@@ -1,0 +1,22 @@
+@charset "UTF=8";
+
+body{
+    height: 100vh;
+}
+header{
+    background-color: #cc0101;
+    position: fixed;
+    width: 100vw;
+    height: 60px;
+
+    display: flex;
+}
+.lista-menu{
+    list-style: none;
+    display: flex;
+}
+.item-menu{
+    text-decoration: none;
+    
+
+}
