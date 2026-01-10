@@ -40,6 +40,7 @@ main > h1{
     width: 100%;
     margin-top: 60px;
     text-align: center;
+    font-family: "Bebas Neue", sans-serif;
 }
 .payment-section > h2{
     padding: 10px;
